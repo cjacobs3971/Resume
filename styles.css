@@ -37,6 +37,9 @@ h2 {
   color: #337ab7;
   text-align: center;
 }
+h3 {
+  color: forestgreen;
+}
 ul {
   color: #f8f8f8;
   text-align: center;
@@ -44,5 +47,11 @@ list-style-type: none;
 padding-right: 2.4%;
 }
 
+#skills li {
+color: goldenrod;
+}
 
+li {
+  padding: .2%;
+}
 
