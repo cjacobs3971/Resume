@@ -11,7 +11,7 @@ body {
 header {
   padding-bottom: 30px;
   text-align: center;
-  background-image: url(../Resume/assets/headerImage.png);
+  background-image: url(./assets/headerImage.png);
   background-repeat: no-repeat;
 }
 header p {
@@ -77,7 +77,7 @@ color: rgb(255, 255, 255);
       padding-right: 4vw;
     }
 #exp {
-      background-image: url(../Resume/assets/1698268857534.jpg);
+      background-image: url(./assets/1698268857534.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       text-align: center;
