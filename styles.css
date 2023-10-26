@@ -18,15 +18,16 @@ header p {
   font-size: 20px;
   font-style: oblique;
   margin: 0;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.4);
   color: #000000;
 }
 
 
 h1 {
-  font-size: 40px;
+  font-size: 3vw;
   text-align: center;
   color: #337ab7;
+  
   
 }
 
@@ -50,11 +51,11 @@ padding-right: 2.4%;
 color: rgb(255, 255, 255);
 }
 #Objectives{
-  background-color: rgba(255, 255, 255, 0.9);
+  background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(216, 215, 215));
   padding-top: 1vh;
 }
 #skills{
-  background-color: rgba(255, 255, 255, 0.9);
+  background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(55, 56, 77));
   padding-top: 1vh;
 }
 #skills li {
@@ -66,7 +67,7 @@ color: rgb(255, 255, 255);
   padding-bottom: 2vh;
   }
 #logic {
-    background-color: rgb(0, 0, 0);
+  background: linear-gradient(to bottom, rgb(162, 132, 232) 0%,rgb(162, 132, 232) 95%, rgb(56,57,78) 95%,rgb(56,57,78) 100% );
     background-size: 100vw;;
     background-repeat: no-repeat;
     text-align: center;
@@ -102,6 +103,8 @@ li {
 }
 #education{
   background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 1vh;
+  padding-bottom: 1vh;
 
 }
 #AdditionalActivities{
