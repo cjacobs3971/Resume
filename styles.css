@@ -55,16 +55,18 @@ color: rgb(255, 255, 255);
   padding-top: 1vh;
 }
 #skills{
-  background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(55, 56, 77));
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(137, 137, 145) 90%, rgb(55, 56, 77));
   padding-top: 1vh;
 }
 #skills li {
   color: rgb(0, 0, 0);
+  font-size: 3vh;
 }
 #Objectives p {
   color: rgb(0, 0, 0);
   text-align: center;
   padding-bottom: 2vh;
+  font-size: 3vh;
   }
 #logic {
   background: linear-gradient(to bottom, rgb(162, 132, 232) 0%,rgb(162, 132, 232) 95%, rgb(56,57,78) 95%,rgb(56,57,78) 100% );
