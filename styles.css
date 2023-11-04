@@ -85,6 +85,11 @@ color: rgb(255, 255, 255);
       background-repeat: no-repeat;
       text-align: center;
       }
+
+#exp li {
+  color: rgb(234, 248, 252);
+}
+
 li {
   padding: .2%;
 }
